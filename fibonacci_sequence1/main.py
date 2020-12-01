@@ -1,4 +1,4 @@
-#the code below implements memoization explicitly to calculate the nth Fibonacci value
+#the code below implements explicit memoization to calculate the nth Fibonacci value
 
 fibonacci_cache = {}
 
